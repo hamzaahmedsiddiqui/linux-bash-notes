@@ -1,5 +1,4 @@
 # Linux & Bash for DevOps  
-### A Structured Systems Engineering Study Program
 
 ## Overview
 
